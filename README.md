@@ -1,16 +1,22 @@
-# rick_and_morty
+<div align="center">
 
-A new Flutter project.
+# 🌌 Rick & Morty Explorer — Clean Architecture & Offline-First App
 
-## Getting Started
+[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![BLoC](https://img.shields.io/badge/State-BLoC-38BDF8?style=for-the-badge)]()
+[![REST API](https://img.shields.io/badge/API-REST%20%2B%20Pagination-8B5CF6?style=for-the-badge)]()
 
-This project is a starting point for a Flutter application.
+**An interactive encyclopedia for the Rick & Morty universe demonstrating Clean Architecture, BLoC pagination, and offline caching in Flutter.**
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Key Features
+
+- 🔍 **Infinite Scroll & Debounced Search:** Browse characters, locations, and episodes with multi-filter support (status, species, gender).
+- 📦 **Offline-First Local Cache:** Cached responses and image assets for smooth browsing without network connectivity.
+- 🧱 **Modular Clean Architecture:** Strictly separated data, domain, and presentation layers.
+
+---
+<p align="center">Engineered by <a href="https://github.com/flutterdevinmobile">Abduqahhor Abduganiyev</a> @ <a href="https://github.com/dewibeuz">DEWIBE</a></p>
